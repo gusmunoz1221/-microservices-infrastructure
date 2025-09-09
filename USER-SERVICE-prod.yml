@@ -1,5 +1,6 @@
-application:
-  profiles: prod
+spring:
+  application:
+    name: config-default
 eureka:
   instance:
     prefer-ip-address: true
