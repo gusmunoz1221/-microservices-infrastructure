@@ -1,5 +1,3 @@
-spring:
-  profiles: prod
 eureka:
   instance:
     prefer-ip-address: true
